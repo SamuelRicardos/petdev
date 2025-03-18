@@ -1,9 +1,9 @@
 "use client"
 
 import useEmblaCarousel from 'embla-carousel-react'
-import { ChevronLeft, ChevronRight, Scissors, Syringe, CarTaxiFront, Hotel, Clock } from 'lucide-react'
-import { WhatsappLogo } from '@phosphor-icons/react'
+import { ChevronLeft, ChevronRight } from 'lucide-react'
 import tutor1 from '../../../public/tutor1.png'
+import tutor2 from '../../../public/tutor2.png'
 import Image from 'next/image'
 // import tutor2 from '../../../public/tutor2.png'
 
@@ -13,7 +13,7 @@ const testimonials = [
             "Desde que comecei a levar a Luna para banho e tosa aqui, ela nunca esteve tão feliz! O atendimento é impecável, os profissionais são super cuidadosos e sempre deixam minha peluda linda e cheirosa. Recomendo de olhos fechados!",
         author: "Mariana Souza",
         role: "Tutora da Luna (Golden Retriever)",
-        image: tutor1,
+        image: tutor2,
     },
     {
         content:
@@ -27,7 +27,7 @@ const testimonials = [
             "Meus gatos nunca gostaram de sair de casa, mas o atendimento nesse petshop fez toda a diferença. A equipe é muito paciente e cuidadosa, e o serviço de banho especializado para felinos foi maravilhoso! Agora sei onde confiar o cuidado deles.",
         author: "Camila Fernandes",
         role: "Tutora da Mel e do Max",
-        image: tutor1,
+        image: tutor2,
     },
 ];
 
