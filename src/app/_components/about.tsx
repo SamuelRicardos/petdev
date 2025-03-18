@@ -40,7 +40,9 @@ export function About() {
             <h2 className="text-4xl font-bold">SOBRE</h2>
 
             <p>
-              Until one has loved an animal, a part of one's soul remains unawakened. We believe in it and we believe in easy access to things that are good for our mind, body and spirit. With a clever offering, superb support and a secure checkout you're in good hands.
+              Aqui, acreditamos que a vida é mais feliz ao lado dos nossos amigos de quatro patas! Nosso propósito é tornar o cuidado com os pets mais fácil, acessível e especial. Com produtos selecionados, suporte dedicado e uma experiência de compra segura, garantimos que você e seu pet estejam sempre em boas mãos.
+
+              Porque quando cuidamos deles, eles nos retribuem com amor incondicional! 🐶🐱💕
             </p>
 
             <ul className="space-y-4">
